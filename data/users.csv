@@ -1,5 +1,5 @@
 id,userId,username,passwordHash,role,provinceId,districtId,stationId,linkedTukTukId,isActive,lastLogin,createdAt
-1,364d4895-ab8b-47df-8455-5c051500a7e5,hq_admin,$2a$12$SDxvMc1YPmea6l97LxwBvOZcpOASrebHs33e4Ac4ukgs0Vh6FMZxG,hq_admin,,,,,true,,2026-04-26T08:08:11.868Z
+1,364d4895-ab8b-47df-8455-5c051500a7e5,hq_admin,$2a$12$SDxvMc1YPmea6l97LxwBvOZcpOASrebHs33e4Ac4ukgs0Vh6FMZxG,hq_admin,,,,,true,2026-04-26T08:43:57.862Z,2026-04-26T08:08:11.868Z
 2,8df3f249-3dad-421a-a7ee-1f4f56add227,prov_wp,$2a$12$SDxvMc1YPmea6l97LxwBvOZcpOASrebHs33e4Ac4ukgs0Vh6FMZxG,province_admin,1,,,,true,,2026-04-26T08:08:11.868Z
 3,cd1c7cef-36af-4f2a-9bd4-bce627fb716a,prov_cp,$2a$12$SDxvMc1YPmea6l97LxwBvOZcpOASrebHs33e4Ac4ukgs0Vh6FMZxG,province_admin,2,,,,true,,2026-04-26T08:08:11.868Z
 4,827331bb-9989-46f7-9e8e-8985b369113b,prov_sp,$2a$12$SDxvMc1YPmea6l97LxwBvOZcpOASrebHs33e4Ac4ukgs0Vh6FMZxG,province_admin,3,,,,true,,2026-04-26T08:08:11.868Z
