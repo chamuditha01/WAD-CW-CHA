@@ -20,3 +20,4 @@ export const config = {
   },
   apiBaseUrl: process.env.API_BASE_URL || 'http://localhost:3000',
 };
+//node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
