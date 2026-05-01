@@ -16,7 +16,7 @@ This API provides:
 - **Live Location Tracking** – Receive and query real-time GPS pings
 - **Historical Movement Logs** – Time-windowed location history per vehicle
 - **Province/District Filtering** – Operational queries scoped by jurisdiction
-- **User & Role Management** – HQ, Provincial, District, Station, and Device roles
+- **User & Role Management** – HQ, Provincial, Station, and Device roles
 - **Secure Auth** – JWT-based authentication with role-based access control
 
 ### Roles
@@ -24,7 +24,6 @@ This API provides:
 |------|-------------|
 | \`hq_admin\` | Full system access (Police HQ) |
 | \`province_admin\` | Province-scoped access |
-| \`district_admin\` | District-scoped access |
 | \`station_officer\` | Station-scoped read/query |
 | \`device\` | Tuk-tuk GPS device — location ping only |
       `,
