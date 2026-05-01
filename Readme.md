@@ -14,6 +14,10 @@ Province Admin -
 Username : prov_wp / prov_cp / prov_sp
 Password : Admin@1234
 
+Distrcit Admin -
+Username : dist_admin_colombo
+Password : Admin@1234
+
 Police Station - 
 Username : officer_1
 Password : Admin@1234
